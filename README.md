@@ -5,7 +5,7 @@
 
 ### Segue as tarefas:
 
-### Questão 1- Concessionária
+### Questão 1 - Concessionária
 
 ##### Uma concessionária que compra e vende veículos seminovos necessita criar um novo sistema orientado a objetos. Para isso contratou um desenvolver de sistemas que mapeou inicialmente as seguintes classes: Carro, Cliente e Transação.
 ##### &emsp; &emsp; a) Implemente a criação dessas classes em um novo projeto Java.
